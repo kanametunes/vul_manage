@@ -30,27 +30,9 @@ function get_vul_info(){
         "cpe":"cpe:2.3:a:1password:1password:*:*:*:*:*:*:*:*"
         },
         {
-        "name":"MobileIron",
-        "cpe":"cpe:2.3:a:mobileiron:*:*:*:*:*:*:*:*:*"
-        },
-        {
-        "name":"AMP",
-        "cpe":"cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:*:*:*:*:*:*:*:*"
-        },
-        {
-        "name":"Umbrella",
-        "cpe":"cpe:2.3:a:cisco:umbrella:*:*:*:*:*:*:*:*"
-        },  
-        {
         "name":"Zoom",
         "cpe":"cpe:2.3:a:zoom:zoom:*:*:*:*:*:*:*:*"
         }
-        /*  
-        {
-        "name":"Duo Device Health",
-        "cpe":"cpe:2.3:a:mozilla:firefox:-:*:*:*:*:*:*:*"
-        } 
-        */ 
     ]
     //Severityとかと取得日時の指定。昨日の11:00−今日の10:59まで
     const severity = "CRITICAL";
