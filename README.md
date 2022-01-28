@@ -10,8 +10,8 @@ Google Apps Scriptを使って、NVDから脆弱性情報の取得
   - などなど
 
 ## 使い方
-GASにそのまま貼ってください。
-SlackのURL変えてね
+GASにそのまま貼って定期実行してください。
+SlackのURLとか変えてね
 
 ## こんな感じでSlackに通知される
 <img width="1117" alt="image" src="https://user-images.githubusercontent.com/66484626/151504308-6eb7b077-b9cb-4ac5-a336-7500995ffaaf.png">
